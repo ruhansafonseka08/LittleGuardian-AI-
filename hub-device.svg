@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460" width="1280" height="920">
+<defs><linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#d9e8fb"/></linearGradient>
+<radialGradient id="g2"><stop offset="0" stop-color="#5ce1c6" stop-opacity=".5"/><stop offset="1" stop-color="#5ce1c6" stop-opacity="0"/></radialGradient>
+<clipPath id="c"><rect width="640" height="460" rx="36"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="640" height="460" fill="#eaf3ff"/>
+<circle cx="320" cy="210" r="190" fill="#d6e8ff"/>
+<ellipse cx="320" cy="400" rx="120" ry="16" fill="#0b3c91" opacity=".12"/>
+<circle cx="320" cy="170" r="110" fill="url(#g2)"/>
+<rect x="230" y="110" width="180" height="280" rx="60" fill="url(#body)" stroke="#b9d3f2" stroke-width="3"/>
+<circle cx="320" cy="190" r="52" fill="#e3f0ff" stroke="#5ce1c6" stroke-width="10"/>
+<circle cx="320" cy="190" r="20" fill="#1565c0"/><circle cx="320" cy="190" r="8" fill="#bfe0ff"/>
+<g fill="#9db6d8"><circle cx="284" cy="268" r="3.5"/><circle cx="296" cy="268" r="3.5"/><circle cx="308" cy="268" r="3.5"/><circle cx="320" cy="268" r="3.5"/><circle cx="332" cy="268" r="3.5"/><circle cx="344" cy="268" r="3.5"/><circle cx="356" cy="268" r="3.5"/><circle cx="284" cy="282" r="3.5"/><circle cx="296" cy="282" r="3.5"/><circle cx="308" cy="282" r="3.5"/><circle cx="320" cy="282" r="3.5"/><circle cx="332" cy="282" r="3.5"/><circle cx="344" cy="282" r="3.5"/><circle cx="356" cy="282" r="3.5"/></g>
+<g stroke="#b9d3f2" stroke-width="5" stroke-linecap="round"><path d="M270 316 H370"/><path d="M270 332 H370"/><path d="M270 348 H370"/></g>
+<!-- callouts -->
+<g stroke="#1565c0" stroke-width="2" fill="none"><path d="M268 190 H130"/><path d="M372 190 H510"/><path d="M290 275 L150 300"/><path d="M350 332 L500 356"/></g>
+<g fill="#1565c0"><circle cx="268" cy="190" r="5"/><circle cx="372" cy="190" r="5"/><circle cx="290" cy="275" r="5"/><circle cx="350" cy="332" r="5"/></g>
+<g font-family="Poppins, Arial, sans-serif" font-weight="600" font-size="15" fill="#0b3c91">
+<text x="24" y="184">LED ring</text><text x="24" y="204" font-weight="400" font-size="13" fill="#46547a">visual alerts</text>
+<text x="516" y="184">Status light</text><text x="516" y="204" font-weight="400" font-size="13" fill="#46547a">calm or alert</text>
+<text x="24" y="304">Microphone</text><text x="24" y="324" font-weight="400" font-size="13" fill="#46547a">cry episodes only</text>
+<text x="506" y="362">Speaker</text><text x="506" y="382" font-weight="400" font-size="13" fill="#46547a">lullaby and voice</text>
+</g>
+<g fill="none" stroke="#2d8cf0" stroke-width="6" stroke-linecap="round"><path d="M290 88 A44 44 0 0 1 350 88"/><path d="M274 68 A72 72 0 0 1 366 68"/></g>
+<text x="320" y="26" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-weight="600" font-size="14" fill="#46547a">Wi-Fi, with optional SMS backup</text>
+</g></svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" width="1280" height="880">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#16327a"/><stop offset="1" stop-color="#2a63c4"/></linearGradient><clipPath id="c"><rect width="640" height="440" rx="36"/></clipPath></defs>
+<g clip-path="url(#c)">
+<rect width="640" height="440" fill="url(#bg)"/>
+<polygon points="70.0,54.0 71.3,58.7 76.0,60.0 71.3,61.3 70.0,66.0 68.7,61.3 64.0,60.0 68.7,58.7" fill="#fff" opacity="0.8"/><polygon points="560.0,43.0 561.5,48.5 567.0,50.0 561.5,51.5 560.0,57.0 558.5,51.5 553.0,50.0 558.5,48.5" fill="#fff" opacity="0.9"/><polygon points="300.0,35.0 301.1,38.9 305.0,40.0 301.1,41.1 300.0,45.0 298.9,41.1 295.0,40.0 298.9,38.9" fill="#fff" opacity="0.7"/><polygon points="600.0,156.0 600.8,159.2 604.0,160.0 600.8,160.8 600.0,164.0 599.2,160.8 596.0,160.0 599.2,159.2" fill="#fff" opacity="0.6"/>
+<rect y="370" width="640" height="70" fill="#0d2a6a"/>
+<!-- clock -->
+<circle cx="520" cy="110" r="44" fill="#fff"/><circle cx="520" cy="110" r="38" fill="#e3f0ff"/>
+<path d="M520 110 V84 M520 110 L538 120" stroke="#0b3c91" stroke-width="5" stroke-linecap="round" fill="none"/><circle cx="520" cy="110" r="4" fill="#0b3c91"/>
+<text x="520" y="178" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-weight="600" font-size="16" fill="#cfe3ff">3:00 a.m.</text>
+<!-- cot with crying baby -->
+<rect x="60" y="230" width="220" height="10" rx="5" fill="#e3f0ff"/>
+<rect x="72" y="230" width="6" height="110" rx="3" fill="#bbdefb"/><rect x="96" y="230" width="6" height="110" rx="3" fill="#bbdefb"/><rect x="120" y="230" width="6" height="110" rx="3" fill="#bbdefb"/><rect x="144" y="230" width="6" height="110" rx="3" fill="#bbdefb"/><rect x="168" y="230" width="6" height="110" rx="3" fill="#bbdefb"/><rect x="192" y="230" width="6" height="110" rx="3" fill="#bbdefb"/><rect x="216" y="230" width="6" height="110" rx="3" fill="#bbdefb"/><rect x="240" y="230" width="6" height="110" rx="3" fill="#bbdefb"/><rect x="264" y="230" width="6" height="110" rx="3" fill="#bbdefb"/>
+<rect x="68" y="320" width="204" height="30" rx="12" fill="#90caf9"/>
+<circle cx="200" cy="278" r="34" fill="#ffd9c2"/><path d="M178 252 C186 238 206 236 218 246 C204 244 190 246 178 252Z" fill="#8d5a3b"/>
+<path d="M182 274 q8 -6 14 0 M206 274 q8 -6 14 0" fill="none" stroke="#3b2a24" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="200" cy="294" rx="9" ry="7" fill="#7a2d2d"/>
+<path d="M176 280 q-6 12 0 16 q6 -4 0 -16Z M224 280 q-6 12 0 16 q6 -4 0 -16Z" fill="#7cc4ff"/>
+<rect x="150" y="304" width="122" height="42" rx="20" fill="#1e88e5"/>
+<rect x="60" y="340" width="220" height="10" rx="5" fill="#e3f0ff"/>
+<rect x="68" y="350" width="10" height="28" rx="4" fill="#bbdefb"/><rect x="262" y="350" width="10" height="28" rx="4" fill="#bbdefb"/>
+<g fill="none" stroke="#ffd166" stroke-width="4" stroke-linecap="round"><path d="M120 214 q-14 -10 0 -22"/><path d="M104 220 q-26 -18 0 -38"/></g>
+<!-- parent -->
+<circle cx="470" cy="250" r="34" fill="#ffd9c2"/>
+<path d="M438 246 C440 218 500 214 504 246 C494 232 456 232 438 246Z" fill="#3b2a24"/>
+<path d="M455 254 q6 4 12 0 M476 254 q6 4 12 0" fill="none" stroke="#3b2a24" stroke-width="3" stroke-linecap="round"/>
+<path d="M458 270 q12 -6 24 0" fill="none" stroke="#c46a5a" stroke-width="3" stroke-linecap="round"/>
+<path d="M420 372 C420 312 440 292 470 292 C500 292 520 312 520 372Z" fill="#fff"/>
+<rect x="446" y="312" width="38" height="58" rx="8" fill="#e3f0ff"/>
+<rect x="432" y="330" width="46" height="70" rx="10" fill="#0b3c91" transform="rotate(-12 455 365)"/>
+<rect x="437" y="336" width="36" height="56" rx="6" fill="#bfe0ff" transform="rotate(-12 455 365)"/>
+<!-- thought bubble -->
+<circle cx="404" cy="212" r="6" fill="#fff"/><circle cx="388" cy="190" r="9" fill="#fff"/>
+<rect x="290" y="96" width="186" height="76" rx="26" fill="#fff"/>
+<text x="383" y="128" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-weight="600" font-size="16" fill="#0b3c91">Why is my baby</text>
+<text x="383" y="150" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-weight="600" font-size="16" fill="#0b3c91">crying again?</text>
+</g></svg>
